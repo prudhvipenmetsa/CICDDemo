@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">odataService</value>
+  <value name="node_nsName">ODataDemo.student:Student</value>
+  <value name="node_pkg">ODataDemo</value>
+  <null name="node_comment"/>
+  <record name="ODataSchema" javaclass="com.wm.util.Values">
+    <value name="Namespace">ODataDemo.student:Student</value>
+    <value name="Alias"></value>
+    <value name="ODataVersion">v2</value>
+    <array name="EntityType" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="Name">Student</value>
+        <array name="Property" type="record" depth="1">
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">id</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">true</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">firstName</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">lastName</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">email</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">phone</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">addressline1</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">addressline2</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">city</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">state</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">zip</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+        </array>
+        <array name="NavigationProperty" type="record" depth="1">
+        </array>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="Name">Demo2</value>
+        <array name="Property" type="record" depth="1">
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">key</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">true</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="Name">name</value>
+            <value name="Type">String</value>
+            <Boolean name="IsKey">false</Boolean>
+            <record name="PropertyFacets" javaclass="com.wm.util.Values">
+              <Boolean name="Nullable">true</Boolean>
+              <value name="Default"></value>
+              <value name="MaxLength">Max</value>
+              <Boolean name="FixedLength">false</Boolean>
+              <Boolean name="Unicode">true</Boolean>
+              <value name="Collation"></value>
+            </record>
+            <Boolean name="IsScalar">true</Boolean>
+          </record>
+        </array>
+        <array name="NavigationProperty" type="record" depth="1">
+        </array>
+      </record>
+    </array>
+    <array name="ComplexType" type="record" depth="1">
+    </array>
+    <array name="Association" type="record" depth="1">
+    </array>
+    <Boolean name="useCustomFilter">false</Boolean>
+  </record>
+  <value name="nsODataServiceNodeVersion">V1</value>
+  <Boolean name="useCustomFilter">false</Boolean>
+  <array name="nsODataServiceNodeReferences" type="record" depth="1">
+    <record javaclass="com.wm.util.Values">
+      <value name="entityTypeName">Demo2</value>
+      <array name="entityTypeReferences" type="record" depth="1">
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">GET</value>
+          <value name="etServiceName">ODataDemo.student._Student.Demo2:_retrieve</value>
+        </record>
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">PUT</value>
+          <value name="etServiceName">ODataDemo.student._Student.Demo2:_update</value>
+        </record>
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">POST</value>
+          <value name="etServiceName">ODataDemo.student._Student.Demo2:_insert</value>
+        </record>
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">DELETE</value>
+          <value name="etServiceName">ODataDemo.student._Student.Demo2:_delete</value>
+        </record>
+      </array>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="entityTypeName">Student</value>
+      <array name="entityTypeReferences" type="record" depth="1">
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">GET</value>
+          <value name="etServiceName">ODataDemo.student._Student.Student:_retrieve</value>
+        </record>
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">PUT</value>
+          <value name="etServiceName">ODataDemo.student._Student.Student:_update</value>
+        </record>
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">POST</value>
+          <value name="etServiceName">ODataDemo.student._Student.Student:_insert</value>
+        </record>
+        <record javaclass="com.wm.util.Values">
+          <value name="etOperationType">DELETE</value>
+          <value name="etServiceName">ODataDemo.student._Student.Student:_delete</value>
+        </record>
+      </array>
+    </record>
+  </array>
+</Values>

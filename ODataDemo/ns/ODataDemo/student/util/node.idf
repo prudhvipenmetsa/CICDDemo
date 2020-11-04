@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">ODataDemo.student.util</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">Y2xhc3MgSmRiY1N0cmluZ1Zpc2l0b3IgaW1wbGVtZW50cyBFeHByZXNzaW9uVmlzaXRvciB7CgoJ
+QE92ZXJyaWRlCglwdWJsaWMgT2JqZWN0IHZpc2l0QmluYXJ5KEJpbmFyeUV4cHJlc3Npb24gYmlu
+YXJ5RXhwcmVzc2lvbiwgQmluYXJ5T3BlcmF0b3Igb3BlcmF0b3IsIE9iamVjdCBsZWZ0U2lkZSwg
+T2JqZWN0IHJpZ2h0U2lkZSkgewoJCS8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIK
+CQkgLy9UcmFuc2Zvcm0gdGhlIE9EYXRhIGZpbHRlciBvcGVyYXRvciBpbnRvIGFuIGVxdWl2YWxl
+bnQgc3FsIG9wZXJhdG9yCgkgICAgU3RyaW5nIHNxbE9wZXJhdG9yID0gIiI7CgkgICAgc3dpdGNo
+IChvcGVyYXRvcikgewoJICAgIGNhc2UgRVE6CgkgICAgICBzcWxPcGVyYXRvciA9ICI9IjsKCSAg
+ICAgIGJyZWFrOwoJICAgIGNhc2UgTkU6CgkgICAgICBzcWxPcGVyYXRvciA9ICI8PiI7CgkgICAg
+ICBicmVhazsKCSAgICBjYXNlIE9SOgoJICAgICAgc3FsT3BlcmF0b3IgPSAiT1IiOwoJICAgICAg
+YnJlYWs7CgkgICAgY2FzZSBBTkQ6CgkgICAgICBzcWxPcGVyYXRvciA9ICJBTkQiOwoJICAgICAg
+YnJlYWs7CgkgICAgY2FzZSBHRToKCSAgICAgIHNxbE9wZXJhdG9yID0gIj49IjsKCSAgICAgIGJy
+ZWFrOwoJICAgIGNhc2UgR1Q6CgkgICAgICBzcWxPcGVyYXRvciA9ICI+IjsKCSAgICAgIGJyZWFr
+OwoJICAgIGNhc2UgTEU6CgkgICAgICBzcWxPcGVyYXRvciA9ICI8PSI7CgkgICAgICBicmVhazsK
+CSAgICBjYXNlIExUOgoJICAgICAgc3FsT3BlcmF0b3IgPSAiPCI7CgkgICAgICBicmVhazsKCSAg
+ICBkZWZhdWx0OgoJICAgICAgLy9PdGhlciBvcGVyYXRvcnMgYXJlIG5vdCBzdXBwb3J0ZWQgZm9y
+IFNRTCBTdGF0ZW1lbnRzCgkgICAKCSAgICB9ICAKCSAgICAvL3JldHVybiB0aGUgYmluYXJ5IHN0
+YXRlbWVudAoJICAgIHJldHVybiBsZWZ0U2lkZSArICIgIiArIHNxbE9wZXJhdG9yICsgIiAiICsg
+cmlnaHRTaWRlOwoJfQoKCUBPdmVycmlkZQoJICBwdWJsaWMgT2JqZWN0IHZpc2l0RmlsdGVyRXhw
+cmVzc2lvbihGaWx0ZXJFeHByZXNzaW9uIGZpbHRlckV4cHJlc3Npb24sIFN0cmluZyBleHByZXNz
+aW9uU3RyaW5nLCBPYmplY3QgZXhwcmVzc2lvbikgewoJICAgICAgcmV0dXJuICJXSEVSRSAiICsg
+ZXhwcmVzc2lvbjsKCSAgfQoKCUBPdmVycmlkZQoJcHVibGljIE9iamVjdCB2aXNpdExpdGVyYWwo
+TGl0ZXJhbEV4cHJlc3Npb24gbGl0ZXJhbCwgRWRtTGl0ZXJhbCBlZG1MaXRlcmFsKSB7CgkgIGlm
+KEVkbVNpbXBsZVR5cGVLaW5kLlN0cmluZy5nZXRFZG1TaW1wbGVUeXBlSW5zdGFuY2UoKS5lcXVh
+bHMoZWRtTGl0ZXJhbC5nZXRUeXBlKCkpKSB7CgkgICAgLy8gd2UgaGF2ZSB0byBiZSBjYXJlZnVs
+bCB3aXRoIHN0cmluZ3MgZHVlIHRvIHNxbCBpbmplY3Rpb24KCSAgICAvLyBUT0RPOiBQcmV2ZW50
+IHNxbCBpbmplY3Rpb24gdmlhIGVzY2FwaW5nCgkgICAgcmV0dXJuICInIiArIGVkbUxpdGVyYWwu
+Z2V0TGl0ZXJhbCgpICsgIiciOwoJICB9IGVsc2UgewoJICAgIHJldHVybiAiJyIgKyBlZG1MaXRl
+cmFsLmdldExpdGVyYWwoKSArICInIjsKCSAgfQoJfQoJQE92ZXJyaWRlCglwdWJsaWMgT2JqZWN0
+IHZpc2l0TWVtYmVyKE1lbWJlckV4cHJlc3Npb24gYXJnMCwgT2JqZWN0IGFyZzEsIE9iamVjdCBh
+cmcyKSB7CgkJLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBtZXRob2Qgc3R1YgoJCXJldHVybiBudWxs
+OwoJfQoKCUBPdmVycmlkZQoJcHVibGljIE9iamVjdCB2aXNpdE1ldGhvZChNZXRob2RFeHByZXNz
+aW9uIGFyZzAsIE1ldGhvZE9wZXJhdG9yIGFyZzEsIExpc3Q8T2JqZWN0PiBhcmcyKSB7CgkJLy8g
+VE9ETyBBdXRvLWdlbmVyYXRlZCBtZXRob2Qgc3R1YgoJCXJldHVybiBudWxsOwoJfQoKCUBPdmVy
+cmlkZQoJcHVibGljIE9iamVjdCB2aXNpdE9yZGVyKE9yZGVyRXhwcmVzc2lvbiBhcmcwLCBPYmpl
+Y3QgYXJnMSwgU29ydE9yZGVyIGFyZzIpIHsKCQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhv
+ZCBzdHViCgkJcmV0dXJuIG51bGw7Cgl9CgoJQE92ZXJyaWRlCglwdWJsaWMgT2JqZWN0IHZpc2l0
+T3JkZXJCeUV4cHJlc3Npb24oT3JkZXJCeUV4cHJlc3Npb24gYXJnMCwgU3RyaW5nIGFyZzEsIExp
+c3Q8T2JqZWN0PiBhcmcyKSB7CgkJLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBtZXRob2Qgc3R1YgoJ
+CXJldHVybiBudWxsOwoJfQoKCUBPdmVycmlkZQoJcHVibGljIE9iamVjdCB2aXNpdFByb3BlcnR5
+KFByb3BlcnR5RXhwcmVzc2lvbiBhcmcwLCBTdHJpbmcgYXJnMSwgRWRtVHlwZWQgYXJnMikgewoJ
+CS8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKCQlyZXR1cm4gbnVsbDsKCX0KCglA
+T3ZlcnJpZGUKCXB1YmxpYyBPYmplY3QgdmlzaXRVbmFyeShVbmFyeUV4cHJlc3Npb24gYXJnMCwg
+VW5hcnlPcGVyYXRvciBhcmcxLCBPYmplY3QgYXJnMikgewoJCS8vIFRPRE8gQXV0by1nZW5lcmF0
+ZWQgbWV0aG9kIHN0dWIKCQlyZXR1cm4gbnVsbDsKCX0KCQp9</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.List</value>
+    <value>java.util.Map</value>
+    <value>org.apache.olingo.odata2.api.edm.EdmException</value>
+    <value>org.apache.olingo.odata2.api.edm.EdmLiteral</value>
+    <value>org.apache.olingo.odata2.api.edm.EdmSimpleTypeKind</value>
+    <value>org.apache.olingo.odata2.api.edm.EdmTyped</value>
+    <value>org.apache.olingo.odata2.api.exception.ODataApplicationException</value>
+    <value>org.apache.olingo.odata2.api.exception.ODataMessageException</value>
+    <value>org.apache.olingo.odata2.api.uri.UriParser</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.BinaryExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.BinaryOperator</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.ExpressionVisitor</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.FilterExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.LiteralExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.MemberExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.MethodExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.MethodOperator</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.OrderByExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.OrderExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.PropertyExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.SortOrder</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.UnaryExpression</value>
+    <value>org.apache.olingo.odata2.api.uri.expression.UnaryOperator</value>
+  </array>
+</Values>
