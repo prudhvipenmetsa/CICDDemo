@@ -1,0 +1,28 @@
+type Query {
+ getStudent(id: ID):Student
+}
+
+type Student {
+	id: ID
+	firstName: String
+	lastName: String
+	email(id: ID): Email
+	address(id: ID): Address
+	phone(id: ID): Phone
+}
+
+type Email {
+	email: String
+}
+
+type Address {
+	line1: String
+	line2: String
+	city: String
+	state: String
+	zipcode: String
+}
+type Phone {
+	mobile: String
+	home: String	
+}
